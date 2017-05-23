@@ -10,7 +10,7 @@ console.error('Danger Will Robinson!');
 
 console.log();
 
-//
+// single line comments //
 
 /*
 Multi
